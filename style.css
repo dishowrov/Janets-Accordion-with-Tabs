@@ -1,0 +1,118 @@
+.dis-tab-sec .dis-tab-nav-wrapper {
+    padding-bottom: 25px !important;
+  } 
+  
+  .dis-tab-sec .dis-tab-nav-wrapper .dis-tab-nav {
+    background: #ddfaa6;
+    border-radius: 28px;
+    padding: 5px;
+    display: inline-block
+  }
+  
+  .dis-tab-sec .dis-tab-nav-wrapper .dis-tab-nav ul {
+    border: none;
+    display: flex;
+  }
+  
+  .dis-tab-sec .dis-tab-nav-wrapper .dis-tab-nav ul li {
+      border: 0 !important;
+  }
+  
+  .dis-tab-sec .dis-tab-nav-wrapper .dis-tab-nav ul li a {
+    padding: 5px 13px;
+    margin: 7px;
+    border: none;
+    border-radius: 28px;
+    box-shadow: 2px 4px 12px rgba(32, 145, 123, 0.24);
+    background-color: #7BA631;
+    color: #FFFFFF;
+    font-family: "Inter", sans-serif;
+    font-weight: 500;
+    font-size: 18px;
+  }
+  .dis-tab-sec .dis-tab-content-wrapper .panel-group .panel-heading h4 a[aria-expanded=true] .glyphicon {
+    transform: rotate(90deg);
+  }
+  .dis-tab-sec .dis-tab-content-wrapper .panel-group .panel-heading h4 a {
+    display: flex;
+    align-items: center;
+  }
+  .dis-tab-sec .dis-tab-content-wrapper .panel-group .panel-heading h4 a .dis-panel-title-icon {
+    width: 5%;
+    margin-right: 5px;
+  }
+  .dis-tab-sec .dis-tab-content-wrapper .panel-group .panel-heading h4 a .dis-panel-title-text {
+    width: 95%;
+  }
+  .dis-tab-sec .dis-tab-content-wrapper .panel-group .panel-heading h4 a .dis-panel-title-text h3 {
+    text-align: center;
+    width: 90%;
+    color: #323232;
+    font-family: Roboto;
+    font-size: 24px;
+    font-weight: 700;
+    margin: 0;
+  }
+  
+  .dis-tab-sec .dis-tab-content-wrapper .panel-group .dis-tab-content-panel-body ul {
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  
+  .dis-tab-sec .dis-tab-content-wrapper .panel-group .dis-tab-content-panel-body ul li {
+    list-style-type: none;
+  }
+  
+  .dis-tab-sec .dis-tab-content-wrapper .panel-group .dis-tab-content-panel-body ul li p {
+    color: #252430;
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 500;
+    margin: 0;
+  }
+  
+  .dis-tab-sec .dis-tab-content-wrapper .panel-group .dis-tab-content-panel-body ul li span {
+    color: #252430;
+    font-family: Inter;
+    font-size: 14px;
+    font-weight: 500;
+  }
+  
+  .dis-tab-sec .tab-pane li img {
+      border: 0 !important;
+      width: 30px !important;
+  }
+  
+  
+  .dis-tab-sec .glyphicon-menu-right::before {
+      content: "";
+      display: inline-block;
+      height: 17px;
+      width: 17px;	
+      background: url("https://www.janets.org.uk/wp-content/uploads/2023/12/arrow-icon_for_the-plans-accordion.svg");
+      background-size: cover;
+  }
+  
+  .dis-tab-sec .dis-tab-content-wrapper .panel-group .dis-tab-content-btn {
+    text-align: center;
+    padding: 25px 0;
+  }
+  
+  .dis-tab-sec .dis-tab-content-wrapper .panel-group .dis-tab-content-btn a {
+    color: #E6E9F5;
+    font-family: Inter;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 20px;
+    padding: 15px 25%;
+    margin: 0;
+    background: #7BA631;
+    border-radius: 4px;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    -ms-border-radius: 4px;
+    -o-border-radius: 4px;
+  }
+  

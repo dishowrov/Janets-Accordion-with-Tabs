@@ -1,0 +1,1 @@
+In the `index.html` file, there are some long scripts. Ignore the unnecessary things. U may remove them manually for a good work with best practice.
